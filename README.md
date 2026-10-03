@@ -46,7 +46,6 @@ python main.py
 
 ### 8. Main Operations
 
-Isse recruiter/teacher ko clear ho jayega project actually kya karta hai:
 
 ```markdown
 ## Main Operations
